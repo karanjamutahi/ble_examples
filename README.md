@@ -1,3 +1,5 @@
+> Trying to get started on TI microPs. I have a feeling this is the wrong place to start but...it's a start. Will be sure after a few hours of eyeballing. 
+
 # Introduction
 
 These examples and demos are for **TI SimpleLink CC2640R2 SDK 1.35.00.33**
